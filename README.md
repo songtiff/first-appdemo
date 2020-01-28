@@ -6,13 +6,11 @@ This demo includes a practice run of creating an iOS application. The pre-conten
 ## AppDemo1
 
 ### App Description
-`TODO://` This app can change background color, text color, and display user input.
+This app can change background color, text color, and display user input.
 
 ### App Walk-though
 
 <img src="http://g.recordit.co/YfrLVsnm1K.gif" width=200><br>
-
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
 ### Required User Stories
 - [ x ] 1. User sees custom text in a label - Hello from {name}!
